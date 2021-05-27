@@ -1,1 +1,9 @@
-# Place code for session 2 exercise 1 here and delete THIS comment
+my_first_name = "Raqim"
+print(my_first_name)
+
+x = "blue"
+y = "blue" 
+z = "blue"
+print(f"{x=} | {y=} | {z=}")
+
+print(f"{x.upper()}")
